@@ -1,0 +1,27 @@
+{
+  "name": "characterreturner",
+  "version": "0.0.1",
+  "description": "This script returns the first character, last character and first and last character of a string. ",
+  "main": "cps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamsears/node-workshop-2.git"
+  },
+  "keywords": [
+    "script",
+    "keyword",
+    "test",
+    "node",
+    "js",
+    "hi"
+  ],
+  "author": "williamsears",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamsears/node-workshop-2/issues"
+  },
+  "homepage": "https://github.com/williamsears/node-workshop-2#readme"
+}
