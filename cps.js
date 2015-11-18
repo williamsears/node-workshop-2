@@ -7,5 +7,14 @@ function firstLetter(string, ret) {
 }
 
 firstLetter(word, function(word) {
-    console.log(a);
+    console.log(word);
+});
+
+function lastLetter(string, ret) {
+    ret(string[string.length -1]);
+    
+}
+
+lastLetter(word, function(word) {
+    console.log(word)
 });
